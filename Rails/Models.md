@@ -28,8 +28,8 @@ validates :key, length: {minimum: number}
 ```
 ```
 validates :key,
-presence: true,
-length: {minimum: number}
+           presence: true,
+           length: {minimum: number}
 ```
 ```
 presence: true
