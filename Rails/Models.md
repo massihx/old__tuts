@@ -44,7 +44,7 @@ confirmation: true
 ## Relationships - mapping
 > has_many: tableName (lowercase, plural)
 > belongs_to :tableName (lowercase, singular)
-
+```
 ```
 t1 = ParentTable.find(id)
 t2 = ChildTable.create(key: value, foreignKey: t1)
