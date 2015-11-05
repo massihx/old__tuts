@@ -40,7 +40,7 @@ format: {with: /regex/}
 acceptance: true
 confirmation: true
 ```
-```
+
 ## Relationships - mapping
 > has_many: tableName (lowercase, plural)
 > belongs_to :tableName (lowercase, singular)
