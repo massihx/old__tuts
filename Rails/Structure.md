@@ -3,6 +3,8 @@
 ```
 ├── app/
 │   ├── index.html
+│   ├── config
+│   │   ├── routes.rb
 │   ├── views
 │   │   ├── layouts // master page, partials, repeated codes, boilerplate codes
 │   │   │   ├── components.html.erb

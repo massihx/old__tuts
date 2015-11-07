@@ -6,7 +6,7 @@ class ModelNameController < ApplicationController
     @record = ModelName.find(params[:id])
     respond_to do |format|
       format.html # show.html.erb
-      formar.json { render json: @record }
+      format.json { render json: @record }
       format.xml { render xml: @record }
     end
   end
