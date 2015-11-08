@@ -35,6 +35,17 @@ end
 
 ## Super
 > to call the parent method, after being overridden in the child class
+> if you call super with no params, it will automatically pass in the arguments that were passed to the child method
 ```
 super(params) # looks for a method by the same name in one of the parent classes, and excute it
 ```
+
+
+
+
+
+
+
+
+
+

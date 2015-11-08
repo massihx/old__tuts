@@ -18,3 +18,9 @@ join => array to string
 
 
 ## String Methods
+
+
+
+
+
+ "#{self.name} was released in #{self.year}."
