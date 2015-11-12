@@ -104,10 +104,10 @@ for value in array do
 end
 ```
 
-## WHILE && UNLESS Modifier
+## WHILE && UNtil Modifier
 ```ruby
 a += 1 while a < 10
-a -= 1 untill a < 10
+a -= 1 until a < 10
 
 begin
   a +=1
