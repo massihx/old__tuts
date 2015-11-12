@@ -2,7 +2,7 @@
 
 ## IF
 ```ruby
-if true than
+if true then
   ...
 end
 
@@ -85,16 +85,17 @@ while condition do # do is optional
 end
 ```
 > use *break* to end the loop prematurely
+
 > The result of a while loop is *nil* unless *break* is used to supply a value.
 
 ## UNTIL
-The until loop executes while a condition is false
+The **until** loop executes while a condition is *false*
 ```ruby
 until condition do
   ...
 end
 ```
-> the result of an until loop is *nil* unless *break* is used.
+> the result of an **until** loop is *nil* unless *break* is used.
 
 ## FOR
 ```ruby
