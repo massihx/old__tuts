@@ -30,6 +30,10 @@ polymorphism
 - http://ruby.bastardsbook.com/chapters/methods/
 - http://www.ruby.or.jp/en/certification/examination/index.data/ruby_silver_prep.pdf
 
+## Books
+- http://shop.oreilly.com/product/9780596510329.do
+- https://netguru.co/blog/ruby-rails-books
+
 ##
 - Installation
 - Package Manager
