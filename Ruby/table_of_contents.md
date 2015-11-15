@@ -22,7 +22,14 @@
 - RegExp
 - Mutex
 - (mutable vs immutable).
-polymorphism
+- polymorphism
+- alias
+
+=======
+class method
+alias and undef
+
+=======
 
 ## Links
 - http://www.skilledup.com/guides/learn-ruby-programming-language-course-guide
